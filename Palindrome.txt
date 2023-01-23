@@ -1,0 +1,3 @@
+A palindrome is a number or a text phrase that reads the same backwards as forwards. For
+example, each of the following five-digit integers are palindromes: 12321, 55555, 45554 and
+11611.
